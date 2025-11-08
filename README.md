@@ -27,7 +27,7 @@
 ### 方法1：替换现有仓库文件
 
 1. 下载所有文件到本地
-2. 用新文件替换你仓库 `antushenguzi/web-work` 中的文件
+2. 用新文件替换你仓库 `wanna-aa/web-work` 中的文件
 3. 提交并推送到GitHub：
 
 ```bash
@@ -38,7 +38,7 @@ git push origin main
 
 ### 方法2：使用GitHub网页上传
 
-1. 进入你的仓库 https://github.com/antushenguzi/web-work
+1. 进入你的仓库 https://github.com/wanna-aa/web-work
 2. 点击 "Add file" → "Upload files"
 3. 上传所有HTML、CSS、JS文件
 4. 点击 "Commit changes"
